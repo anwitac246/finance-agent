@@ -1,0 +1,101 @@
+CustomerID,Name,Age,City,Current Loan Details,Credit Score,Pre-Approved Personal Loan Limit
+1,Olivia Anderson,34,Kanpur,"Car Loan - ₹4274494, Gold Loan - ₹2646668",806,994465
+2,Rohan Lee,24,Sydney,No active loan,524,1090588
+3,Isabella Martin,21,Nanded,No active loan,709,184363
+4,David Martin,65,Berlin,"Home Loan - ₹4115425, Home Loan - ₹558459",835,1098341
+5,Isabella Wilson,36,San Francisco,"Car Loan - ₹1207413, Home Loan - ₹4781552",444,1083784
+6,Mason Taylor,64,Raiganj,No active loan,689,1546755
+7,Mason Khan,32,Mandya,"Home Loan - ₹423598, Home Loan - ₹701997",549,313577
+8,Mason Chopra,89,Indore,"Home Loan - ₹1272608, Education Loan - ₹251600",504,174620
+9,Mason Brown,76,Palakkad,"Education Loan - ₹4479344, Car Loan - ₹1120710",550,305379
+10,Liam Wilson,71,Nanded,Personal Loan - ₹4672243,338,543225
+11,Amit Nair,88,Silchar,No active loan,576,1727232
+12,Ethan Lee,78,Gopalganj,"Car Loan - ₹2948874, Gold Loan - ₹4400207",351,1337430
+13,Ishita Taylor,87,Chennai,Home Loan - ₹1558917,500,402719
+14,Amit Khan,86,Singapore,No active loan,427,1095264
+15,Simran Moore,66,Tokyo,"Education Loan - ₹2172825, Home Loan - ₹3330115",617,1600550
+16,Olivia Smith,46,Lucknow,Car Loan - ₹490509,302,1431194
+17,Amit Brown,40,Gopalganj,Education Loan - ₹438150,491,1482447
+18,Liam Chopra,56,Lucknow,Education Loan - ₹1081105,487,1701454
+19,Ethan Johnson,94,Kolkata,"Personal Loan - ₹254785, Car Loan - ₹4614714",422,1997437
+20,Olivia Singh,86,Kolkata,No active loan,333,402145
+21,Ava Taylor,79,Singapore,No active loan,799,920309
+22,Noah Moore,78,Dubai,No active loan,609,316446
+23,Emma Khan,21,Patna,Home Loan - ₹1792214,424,1229320
+24,Olivia Taylor,38,Silchar,Gold Loan - ₹814629,528,1354781
+25,Ananya Wilson,92,Kanpur,Home Loan - ₹1006791,406,985948
+26,Liam Mehta,22,Barpeta,Education Loan - ₹4515405,562,896992
+27,Noah Brown,90,Faizabad,Personal Loan - ₹2444687,695,1527752
+28,Rahul Martin,67,Ballia,Personal Loan - ₹2366536,888,1820357
+29,Aarav Khan,91,Chennai,Personal Loan - ₹2677410,538,955262
+30,Neha Nair,33,Mandya,Personal Loan - ₹2784855,895,83002
+31,Neha Reddy,51,Bhopal,Car Loan - ₹4432671,381,1176557
+32,Rohan Anderson,40,Indore,Home Loan - ₹1990117,848,976545
+33,Sophia Patel,18,Mandya,Gold Loan - ₹3595366,582,1611972
+34,Amit Wilson,49,Bengaluru,"Education Loan - ₹1705515, Personal Loan - ₹1607283",681,165300
+35,Emma Anderson,54,Toronto,"Car Loan - ₹4182331, Education Loan - ₹968311",514,1301455
+36,Liam Khan,89,Hyderabad,"Education Loan - ₹1689644, Home Loan - ₹1091924",790,84694
+37,Kabir Patel,48,Toronto,No active loan,416,1868391
+38,Noah Gupta,80,Paris,Personal Loan - ₹53425,649,978527
+39,Kabir Lee,35,Gopalganj,"Education Loan - ₹3034431, Home Loan - ₹1019542",487,899052
+40,Ethan Nair,47,Paris,No active loan,665,1354208
+41,Emma Taylor,19,Mandya,"Personal Loan - ₹903350, Home Loan - ₹1879649",771,1458904
+42,Isabella Martin,42,Bhopal,No active loan,626,1823852
+43,Kabir Patel,52,Mandya,No active loan,834,232463
+44,Ethan Smith,84,Hyderabad,"Home Loan - ₹2938886, Home Loan - ₹4415789",344,1565803
+45,Isabella Mehta,46,Pune,No active loan,682,1265414
+46,Noah Reddy,24,London,No active loan,744,1125546
+47,Amit Mehta,57,London,No active loan,765,1212110
+48,Kabir Taylor,42,Ballia,No active loan,452,1068494
+49,Noah Moore,40,Gopalganj,Gold Loan - ₹1232025,448,674778
+50,Noah Nair,28,Chennai,No active loan,544,1940544
+51,Ava Brown,31,Raiganj,No active loan,524,1250647
+52,Simran Lee,47,Chennai,No active loan,548,98752
+53,Liam Gupta,36,Mumbai,Education Loan - ₹453409,575,871351
+54,Emma Khan,25,Gopalganj,No active loan,829,1035915
+55,Amit Smith,52,Hyderabad,"Gold Loan - ₹4079728, Personal Loan - ₹627491",526,303746
+56,Amit Thomas,41,Nanded,"Gold Loan - ₹680079, Gold Loan - ₹1530788",640,390082
+57,Sophia Verma,22,Sydney,No active loan,790,1561024
+58,Ava Thomas,83,London,No active loan,345,540659
+59,Simran Singh,53,Dharwad,"Car Loan - ₹2509246, Gold Loan - ₹194326",441,378851
+60,Ava Gupta,46,Gopalganj,No active loan,594,1076148
+61,Amit Lee,58,Ballia,No active loan,678,1320922
+62,Ananya Nair,85,Jaipur,"Education Loan - ₹150501, Gold Loan - ₹4525996",814,1551127
+63,Emma Anderson,69,Pune,"Personal Loan - ₹3218155, Education Loan - ₹4749778",483,316842
+64,Ethan Taylor,93,Pune,No active loan,682,1031119
+65,Aarav Taylor,58,San Francisco,Education Loan - ₹3903801,529,483729
+66,Aarav Smith,51,Sydney,"Personal Loan - ₹1841207, Car Loan - ₹2644701",825,871105
+67,Ananya Brown,33,Faizabad,Personal Loan - ₹1362855,685,1258571
+68,Ava Lee,34,Nanded,"Personal Loan - ₹597968, Personal Loan - ₹2540173",602,1118548
+69,Priya Nair,29,Palakkad,Education Loan - ₹104525,695,1971916
+70,Kabir Martin,74,Kanpur,"Gold Loan - ₹936112, Gold Loan - ₹903020",325,1800202
+71,Neha Brown,95,Patna,"Home Loan - ₹4709386, Gold Loan - ₹1461930",590,955614
+72,Ava Mehta,53,Delhi,No active loan,449,1559215
+73,Emma Lee,39,Bengaluru,"Education Loan - ₹3800703, Gold Loan - ₹1854072",770,1632746
+74,Rahul Taylor,84,Kanpur,"Education Loan - ₹1595486, Car Loan - ₹1135535",463,448860
+75,Ishita Johnson,35,Pune,Personal Loan - ₹1063062,770,241328
+76,Rohan Singh,61,Singapore,"Education Loan - ₹3615938, Personal Loan - ₹4354315",423,419204
+77,Priya Thomas,36,Bengaluru,Car Loan - ₹4174683,509,502330
+78,Sophia Lee,76,San Francisco,No active loan,666,410170
+79,Aarav Reddy,56,Toronto,Home Loan - ₹2702318,792,176512
+80,Ishita Thomas,24,Delhi,"Home Loan - ₹1803172, Education Loan - ₹4180834",787,1394256
+81,David Reddy,31,San Francisco,No active loan,558,113545
+82,Noah Chopra,22,Bengaluru,"Home Loan - ₹160739, Gold Loan - ₹4629763",779,660658
+83,Sophia Verma,88,Berlin,"Home Loan - ₹4770625, Personal Loan - ₹2320978",558,1223454
+84,Priya Taylor,29,Toronto,"Home Loan - ₹3636341, Home Loan - ₹3888666",486,1366383
+85,Mason Chopra,66,Berlin,Education Loan - ₹4575043,388,1531280
+86,Rohan Nair,45,Ahmedabad,No active loan,782,1234560
+87,Rahul Brown,82,London,Education Loan - ₹1608493,511,61539
+88,Liam Patel,18,San Francisco,No active loan,614,322996
+89,Ananya Chopra,51,Sydney,"Home Loan - ₹1047729, Home Loan - ₹4203500",459,421056
+90,Emma Gupta,64,Berlin,No active loan,744,1809041
+91,Olivia Taylor,73,Raiganj,No active loan,419,1194767
+92,Ishita Verma,48,Raiganj,No active loan,529,1338374
+93,Aarav Khan,75,Lucknow,"Personal Loan - ₹3154319, Home Loan - ₹3557785",469,147547
+94,Ishita Singh,38,Raiganj,Gold Loan - ₹515272,746,1100459
+95,Ava Martin,35,Toronto,"Home Loan - ₹444934, Gold Loan - ₹1753189",669,408545
+96,Simran Sharma,95,Palakkad,No active loan,471,851109
+97,Simran Chopra,83,Gopalganj,Home Loan - ₹3543233,743,1659576
+98,Neha Wilson,19,Raiganj,No active loan,351,72080
+99,Ava Verma,83,Mandya,"Personal Loan - ₹1109695, Home Loan - ₹817770",675,1784129
+100,Aarav Chopra,71,Lucknow,Car Loan - ₹2507615,786,387040
